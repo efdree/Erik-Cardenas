@@ -28,7 +28,8 @@
 ](https://www.cisco.com/)
 **CCNP Enterprise** \
 [**CISCO**](https://www.cisco.com/)  • Certified\
-Skills: `Switching` `Routing` `Troubleshooting` `TCP` `HSRP` `VRRP` `PORT SECURITY` `OSPF` `RIPv2` `EIGRP` `STP` `...`  
+Skills: `Switching` `Routing` `Troubleshooting` `TCP` `VLANs` `STP` `L2/L3 Etherchannels` `HSRP` `VRRP` `IPv6` 
+`PORT SECURITY` `OSPF` `RIPv2` `EIGRP` `BGP` `...`  
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRdaNvooPBa3ai0N0xyV6w1vodEMF7UWN2BcZwoI_CGw&s"/>](https://www.codeable.la/)
 **Full Stack Developer** \
